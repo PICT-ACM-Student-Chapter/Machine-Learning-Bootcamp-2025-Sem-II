@@ -1,6 +1,6 @@
-# 🚀 Unlock PASC’s ML SIG 🚀  
+# 🚀 Machine Learning Bootcamp 🚀  
 
-Are you ready to dive deep into the world of Machine Learning? Join us for an intensive and hands-on **ML SIG** designed to equip you with the skills to **build, analyze, and innovate**!  
+Are you ready to dive deep into the world of Machine Learning? Join us for an intensive and hands-on **ML Bootcamp** designed to equip you with the skills to **build, analyze, and innovate**!  
 
 ## 📅 Dates  
 **April 8, 9, 10**  
@@ -49,3 +49,8 @@ Whether you’re a beginner eager to start or an enthusiast looking to advance, 
 ---
 
 Get ready to **code**, **compete**, and **conquer ML**—see you there! 🚀  
+
+
+Quizes Links: <Add day-wise quiz links here
+
+Feedback Links: Add Feedback form links here
