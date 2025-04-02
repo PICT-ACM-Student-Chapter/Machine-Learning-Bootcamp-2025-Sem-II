@@ -53,4 +53,4 @@ Get ready to **code**, **compete**, and **conquer ML**—see you there! 🚀
 
 Quizes Links: <Add day-wise quiz links here
 
-Feedback Links: https://forms.gle/dgYm9n7xYp8qFaTW8
+Feedback Link: https://forms.gle/dgYm9n7xYp8qFaTW8
